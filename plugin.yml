@@ -1,0 +1,9 @@
+name: DailyRewards
+main: DailyRewards\Main
+api: [3.0.0]
+author: Eris11dib
+description: DailyRewards 
+version: 0.0.1
+commands:
+    dailyrewards:
+          description: Claim your daily reward!
