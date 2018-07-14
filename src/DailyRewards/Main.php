@@ -34,10 +34,10 @@ class Main extends PluginBase implements Listener{
 		"Items" => ["306:0:1", "307:0:1", "308:0:1", "309:0:1"]
 		]);
 		$this->config = new Config($this->getDataFolder() . "config.yml", Config::YAML,[
-		"first_reward_claim_message" => "Hai ricevuto il tuo primo premio giornaliero, torna domani!"
-		"success_reward_claim_message" => "Hai ricevuto il tuo premio giornaliero,torna domani!"
-		"waiting_reward_message" => "Devi aspettare il giorno seguente!"
-		"error_reward_message" => "C'è stato un errore"
+		"first_reward_claim_message" => "Hai ricevuto il tuo primo premio giornaliero, torna domani!",
+		"success_reward_claim_message" => "Hai ricevuto il tuo premio giornaliero,torna domani!",
+		"waiting_reward_message" => "Devi aspettare il giorno seguente!",
+		"error_reward_message" => "C'è stato un errore",
 		]);
 		
 	}
