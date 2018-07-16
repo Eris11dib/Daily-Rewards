@@ -19,7 +19,7 @@ use pocketmine\item\Item;
 
 class Main extends PluginBase implements Listener{
 	
-	public $prefix = §l§7[§r§aDailyRewards§l§§7]§r
+	public $prefix = "§l§7[§r§aDailyRewards§l§§7]§r";
 	public $players;
 	public $items;
 	public $config;
