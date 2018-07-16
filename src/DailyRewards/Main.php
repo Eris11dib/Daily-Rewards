@@ -19,7 +19,7 @@ use pocketmine\item\Item;
 
 class Main extends PluginBase implements Listener{
 	
-	public $prefix = "§l§7[§r§aDailyRewards§l§§7]§r";
+	public $prefix = "§l§7[§r§aDailyRewards§l§7]§r ";
 	public $players;
 	public $items;
 	public $config;
@@ -54,9 +54,8 @@ class Main extends PluginBase implements Listener{
 							$inv = $sender->getInventory();
 							$expl = explode(":", $itemStr);
 							$inv->addItem(Item::get( (int) $expl[0], (int) $expl[1], (int) $expl[2]));
-							$sender->sendMessage($this->prefix . "§a" . $this->config->get("success_reward_claim_message"));
-							
 					   	}
+						$sender->sendMessage($this->prefix . "§a" . $this->config->get("success_reward_claim_message"));
 					  }else{
 					  	$sender->sendMessage($this->prefix . "§4" . $this->config->get("waiting_reward_message"));
 				  }
@@ -65,8 +64,8 @@ class Main extends PluginBase implements Listener{
 					$inv = $sender->getInventory();
 					$expl = explode(":", $itemStr);
 			  	$inv->addItem(Item::get( (int) $expl[0], (int) $expl[1], (int) $expl[2]));
-					  	$sender->sendMessage($this->prefix . "§a" . $this->config->get("first_reward_claim_message"));
 			  }
+					$sender->sendMessage($this->prefix . "§a" . $this->config->get("first_reward_claim_message"));
 			}
 			  $this->players->set($playerName,time());
 			}
