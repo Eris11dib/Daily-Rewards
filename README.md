@@ -1,5 +1,5 @@
  # Daily Rewards
- ![dailyrewards](https://raw.githubusercontent.com/Eris11dib/Plugins-Logo/logo.png)
+ ![dailyrewards](https://raw.githubusercontent.com/Eris11dib/Plugins-Logo/master/logo.png)
 
 A configurable plugin that gives items to players once a day with a command
 
