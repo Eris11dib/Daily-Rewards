@@ -1,3 +1,5 @@
+http://imgur.com/gallery/ltjvrvt
+
 # Daily-Rewards
 
 A configurable plugin that gives items to players once a day with a command
