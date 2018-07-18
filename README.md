@@ -1,4 +1,4 @@
-<h1>DailyRewards<img src="https://raw.githubusercontent.com/CortexPE/DailyRewards/logo.png" height="128" width="64" align="left"></img></h1>
+<h1>DailyRewards<img src="https://raw.githubusercontent.com/CortexPE/DailyRewards/logo.png" height="2560" width="1440" align="left"></img></h1>
 
 A configurable plugin that gives items to players once a day with a command
 
