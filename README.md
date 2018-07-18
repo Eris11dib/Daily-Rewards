@@ -1,4 +1,4 @@
-http://imgur.com/gallery/ltjvrvt
+<h1>DailyRewards<img src="http://imgur.com/gallery/ltjvrvt" height="64" width="64" align="left"></img></h1>
 
 # Daily-Rewards
 
