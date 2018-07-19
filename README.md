@@ -16,3 +16,8 @@ Items:
 ```
 
 This is the default items config, You can change the items/armor reward by getting their ID, Meta and count
+
+
+### Graphic
+
+Maker: ServinceYT(t.me/ServinceYT)
