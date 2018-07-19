@@ -20,4 +20,4 @@ This is the default items config, You can change the items/armor reward by getti
 
 ### Graphic
 
-Maker: ServinceYT(t.me/ServinceYT)
+Maker: [servinceyt](https://telegram.me/servinceyt)
