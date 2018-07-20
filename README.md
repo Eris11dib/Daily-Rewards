@@ -3,6 +3,10 @@
 
 A configurable plugin that gives items to players once a day with a command
 
+Works with:
+- 1.4
+- 1.5
+
 # Items
 
 ```yaml
